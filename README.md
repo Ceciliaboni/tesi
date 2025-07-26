@@ -7,8 +7,8 @@ tesi di laurea:
 
 ## 📄 Contenuti
 
-- `tesi.pdf`: Versione finale della tesi
-- `tesi.R`: Codice R per riprodurre analisi statistiche (test di Kruskal-Wallis, regressione logistica, cluster analysis, LDA, ecc.)
+- `tesi.pdf` → Versione finale della tesi
+- `tesi.R` → Codice R per riprodurre analisi statistiche (test di Kruskal-Wallis, regressione logistica, cluster analysis, LDA, ecc.)
 
 ## 🔍 Obiettivi dell'analisi
 
